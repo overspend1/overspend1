@@ -1,19 +1,167 @@
-# 💫 About Me:
-I'm currently working on a chrome extension<br>My name is Wiktor<br>Im from poland
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wiktor%20|%20overspend1&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=gradient" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/overspend1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/airy99) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thisismeyoudontknowme) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+MCP+Servers+%26+Chrome+Extensions;Hackintosh+Expert+%7C+OpenCore+Specialist;Reverse+Engineering+%26+Security+Research;Daily+Driving+CachyOS+%7C+Docker+Wizard;Poland+%F0%9F%87%B5%F0%9F%87%B1+%7C+Breaking+%26+Building+Systems" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=overspend1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=overspend1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=overspend1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/overspend1)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/airy99)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@thisismeyoudontknowme)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=overspend1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/airy999) 
+## 🔥 About Me
+```typescript
+const wiktor = {
+    location: "Warsaw, Poland 🇵🇱",
+    currentFocus: [
+        "Building MCP servers for Roblox & payment systems",
+        "Chrome extension development",
+        "Hackintosh configurations (AMD & Intel)",
+        "Self-hosted infrastructure with Docker"
+    ],
+    expertise: {
+        systemEngineering: ["OpenCore", "ACPI Patching", "EFI Development"],
+        linux: ["CachyOS", "KDE Plasma", "Hyprland", "Docker"],
+        security: ["Reverse Engineering", "Protocol Analysis"],
+        development: ["Chrome Extensions", "MCP Servers", "Android Apps"],
+        automation: ["AI Bots", "Server Management", "CI/CD"]
+    },
+    currentlyLearning: "Advanced kernel development",
+    funFact: "I rice my desktop more than I code sometimes 😅"
+};
+```
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,cpp,kotlin,bash,html,css&theme=dark&perline=7" />
+</a>
+
+### Systems & DevOps
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,jenkins,git,github,gitlab,gitea&theme=dark&perline=8" />
+</a>
+
+### Cloud & Tools
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,vercel,nodejs,arduino,notion,sqlite,md&theme=dark&perline=7" />
+</a>
+
+</div>
+
+---
+
+## 🚀 Current Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 MCP Servers
+```yaml
+Status: Active Development
+Tech: Python, Protocol Buffers
+Use: Roblox game dev & payments
+```
+
+</td>
+<td width="50%">
+
+### 🌐 Chrome Extensions
+```yaml
+Status: Active Development
+Tech: JavaScript, Web APIs
+Use: Browser automation
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖥️ Hackintosh Projects
+```yaml
+Status: Ongoing Research
+Hardware: AMD Ryzen, Dell Latitude
+Focus: OpenCore optimization
+```
+
+</td>
+<td width="50%">
+
+### 🐳 Infrastructure
+```yaml
+Status: Production
+Stack: Docker, Nginx, CachyOS
+Services: Self-hosted tools
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Skills & Expertise
+
+<div align="center">
+
+### 🔧 System Engineering
+OpenCore Configuration • ACPI Patching • EFI Development • Hardware Compatibility Research
+
+### 🐧 Linux Administration
+CachyOS Daily Driver • KDE Plasma Ricing • Hyprland Compositor • Docker Orchestration
+
+### 💻 Development
+Chrome Extensions • MCP Server Architecture • Android Apps (Kotlin) • Bot Development
+
+### 🔐 Security
+Reverse Engineering • Protocol Analysis • Security Research • System Internals
+
+</div>
+
+---
+
+## 🌟 Highlights & Achievements
+
+- 🔨 **Built production-grade MCP servers** for game development & payment processing
+- 💻 **Successfully configured Hackintosh** on multiple AMD & Intel platforms
+- 🎨 **Created custom desktop environments** (Purple Dreams Hyprland, Nord themes)
+- 🤖 **Developed AI-integrated bots** for server management
+- 🐳 **Managing Docker infrastructure** for self-hosted services
+- 🔐 **Active in security research** and reverse engineering projects
+- 🐧 **CachyOS power user** with heavily customized workflow
+
+---
+
+## 📫 Connect & Support
+
+<div align="center">
+
+### 💰 Support My Work
+
+If my projects help you, consider supporting development!
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/airy999)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=overspend1&label=Profile%20Views&color=00F7FF&style=for-the-badge)
+
+<br/><br/>
+
+**💬 Open to collaborations • Interested in cool projects • Always learning**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
