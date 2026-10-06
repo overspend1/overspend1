@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="stack: rust, python, kotlin, typescript, linux, pytorch, postgresql, redis, neondb"><style>
+:root { --bg:#0d1117; --panel:#161b22; --border:#30363d; --fg:#e6edf3; --dim:#8b949e; --faint:#6e7681;
+        --accent:#7ee787; --accent2:#79c0ff; --warm:#ffa657; --pill:#21262d; }
+@media (prefers-color-scheme: light) {
+  :root { --bg:#ffffff; --panel:#f6f8fa; --border:#d0d7de; --fg:#1f2328; --dim:#59636e; --faint:#818b98;
+          --accent:#1a7f37; --accent2:#0969da; --warm:#bc4c00; --pill:#eaeef2; }
+}
+.mono { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; }
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+
+    .chip { fill:var(--panel); stroke:var(--border); }
+    .chipt { font-size:13px; fill:var(--fg); }
+    </style><rect class="chip" x="1.0" y="6" width="65.2" height="32" rx="16"/><circle cx="17.0" cy="22" r="5" fill="#dea584"/><text class="mono chipt" x="28.0" y="26.5">rust</text><rect class="chip" x="82.7" y="6" width="80.8" height="32" rx="16"/><circle cx="98.7" cy="22" r="5" fill="#3572a5"/><text class="mono chipt" x="109.7" y="26.5">python</text><rect class="chip" x="179.9" y="6" width="80.8" height="32" rx="16"/><circle cx="195.9" cy="22" r="5" fill="#a97bff"/><text class="mono chipt" x="206.9" y="26.5">kotlin</text><rect class="chip" x="277.2" y="6" width="112.0" height="32" rx="16"/><circle cx="293.2" cy="22" r="5" fill="#3178c6"/><text class="mono chipt" x="304.2" y="26.5">typescript</text><rect class="chip" x="405.7" y="6" width="73.0" height="32" rx="16"/><circle cx="421.7" cy="22" r="5" fill="#e3b341"/><text class="mono chipt" x="432.7" y="26.5">linux</text><rect class="chip" x="495.2" y="6" width="88.6" height="32" rx="16"/><circle cx="511.2" cy="22" r="5" fill="#ee4c2c"/><text class="mono chipt" x="522.2" y="26.5">pytorch</text><rect class="chip" x="600.2" y="6" width="112.0" height="32" rx="16"/><circle cx="616.2" cy="22" r="5" fill="#336791"/><text class="mono chipt" x="627.2" y="26.5">postgresql</text><rect class="chip" x="728.7" y="6" width="73.0" height="32" rx="16"/><circle cx="744.7" cy="22" r="5" fill="#dc382d"/><text class="mono chipt" x="755.7" y="26.5">redis</text><rect class="chip" x="818.2" y="6" width="80.8" height="32" rx="16"/><circle cx="834.2" cy="22" r="5" fill="#00e599"/><text class="mono chipt" x="845.2" y="26.5">neondb</text></svg>
